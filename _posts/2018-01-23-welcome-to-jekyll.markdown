@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Fsociety!"
 date:   2018-01-23 11:27:54 +0000
 categories: jekyll update
 ---
